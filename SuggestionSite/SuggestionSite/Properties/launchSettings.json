@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "SuggestionSite": {
+    "SuggestionAppUI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
