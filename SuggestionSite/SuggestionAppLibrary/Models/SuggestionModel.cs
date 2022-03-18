@@ -1,5 +1,5 @@
 ﻿namespace SuggestionAppLibrary.Models;
 
-internal class SuggestionModel
+public class SuggestionModel
 {
 }

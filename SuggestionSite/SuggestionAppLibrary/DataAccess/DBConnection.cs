@@ -1,4 +1,4 @@
 ﻿namespace SuggestionAppLibrary.DataAccess;
-class DBConnection
+public class DBConnection
 {
 }
